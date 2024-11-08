@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/Alphabet-Checker/cmake-build-debug/CMakeFiles/Alphabet_Checker.dir
+C:/Users/HP/CLionProjects/Alphabet-Checker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/Alphabet-Checker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
